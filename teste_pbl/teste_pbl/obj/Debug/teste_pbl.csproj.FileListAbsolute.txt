@@ -1,0 +1,7 @@
+D:\Algoritmos 2\teste_pbl\teste_pbl\bin\Debug\teste_pbl.exe.config
+D:\Algoritmos 2\teste_pbl\teste_pbl\bin\Debug\teste_pbl.exe
+D:\Algoritmos 2\teste_pbl\teste_pbl\bin\Debug\teste_pbl.pdb
+D:\Algoritmos 2\teste_pbl\teste_pbl\obj\Debug\teste_pbl.csproj.AssemblyReference.cache
+D:\Algoritmos 2\teste_pbl\teste_pbl\obj\Debug\teste_pbl.csproj.CoreCompileInputs.cache
+D:\Algoritmos 2\teste_pbl\teste_pbl\obj\Debug\teste_pbl.exe
+D:\Algoritmos 2\teste_pbl\teste_pbl\obj\Debug\teste_pbl.pdb

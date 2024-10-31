@@ -1,0 +1,20 @@
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.exe.config
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.exe
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.pdb
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.AssemblyReference.cache
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste_PBL___Leide.Form1.resources
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste_PBL___Leide.Properties.Resources.resources
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.GenerateResource.cache
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.CoreCompileInputs.cache
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.exe
+Z:\Algoritmo - Leide\Teste PBL - Leide\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.pdb
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.exe.config
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.exe
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\bin\Debug\Teste PBL - Leide.pdb
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.AssemblyReference.cache
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste_PBL___Leide.Form1.resources
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste_PBL___Leide.Properties.Resources.resources
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.GenerateResource.cache
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.csproj.CoreCompileInputs.cache
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.exe
+D:\Algoritmos 2\Teste PBL - Leide com Arquivos\Teste PBL - Leide\obj\Debug\Teste PBL - Leide.pdb
